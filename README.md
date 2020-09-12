@@ -2,7 +2,7 @@
 
 Jeg hedder **Louise**, jeg er 41 år og ny på datamatikerstudiet _september 2020_.
 
-![Foto af Louise](https://raw.githubusercontent.com/LouiseFuglsang/LouiseFuglsang.github.io/master/IMG_0485a.png)
+![Foto af Louise](https://LouiseFuglsang.github.com/images/IMG_0485a.png)
 
 ### Min vej til datamatiker
 Hvis du spurgte mig for 10 år siden hvor jeg ville være nu, var [datamatikeruddannelsen](https://www.zealand.dk/fuldtid/datamatiker/?gclid=CjwKCAjw4_H6BRALEiwAvgfzq9N4kgriqS66n5RLK3X9drkQXPphpaQyhbcKQFDfx7S9WiHAYYmq0BoC44wQAvD_BwE) bestemt ikke i mine tanker. Jeg har været omkring flere uddannelser (kontor, mediegrafiker, lifecoach og lærer). 
