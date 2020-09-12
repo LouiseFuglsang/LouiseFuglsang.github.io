@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Velkommen til Louises første hjemmeside
+
+Jeg hedder Louise, jeg er 41 år og ny på datamatikerstudiet september 2020.
+
 
 You can use the [editor on GitHub](https://github.com/LouiseFuglsang/LouiseFuglsang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
