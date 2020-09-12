@@ -3,7 +3,7 @@
 Jeg hedder Louise, jeg er 41 år og ny på datamatikerstudiet september 2020.
 
 
-## Min vej til datamatiker
+### Min vej til datamatiker
 Hvis du spurgte mig for 10 år siden hvor jeg ville være nu, var datamatikeruddannelsen bestemt ikke i mine tanker. Jeg har været omkring flere uddannelser (kontor, mediegrafiker, lifecoach og lærer). 
 Jeg har arbejdet både i det offentlige og privat, og fra kontorfaget fik jeg bevæget mig over i IT-faget og arbejdet med kundesupport. Jeg fandt en gnist i arbejdet som jeg ikke havde oplevet før, og jobbet gav mig en masse daglige udfordringer som jeg længe havde søgt.
 
